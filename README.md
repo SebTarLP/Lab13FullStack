@@ -22,6 +22,5 @@ Serwer jest dostępny w ramach usługi Ingress:
 
 ![image](https://github.com/SebTarLP/Lab13FullStack/assets/156203191/e27fee64-e1b7-40d7-b453-c440e24a7348)
 
-*
-W repozytorium bitnami jest również dostępny obraz "nginx-ingress-controller", który jest gotowym rozwiązaniem zadania.
+W repozytorium bitnami jest również dostępny obraz "nginx-ingress-controller" (po środku), który jest gotowym rozwiązaniem zadania.
 ![image](https://github.com/SebTarLP/Lab13FullStack/assets/156203191/5e5d435b-d8eb-4312-a734-4e142141694c)
