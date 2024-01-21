@@ -6,7 +6,7 @@ Instalacja serwera nginx:
 
 ![image](https://github.com/SebTarLP/Lab13FullStack/assets/156203191/b4a2b8c5-3bd7-46ea-869f-1dc25021de62)
 
-Przed potwierdzeniem instalacji należy edytować plik yaml (należy włączyć ingress):
+Przed potwierdzeniem instalacji należy edytować plik yaml. Nalezy włączyć ingress. Jest również kilka ustwień w sekcji ingress, które można dostosować pod swoje wymagania, np. hostname, pod którym nginx się zgłosi (wymaga zmian w pliku /etc/hosts):
 
 ![image](https://github.com/SebTarLP/Lab13FullStack/assets/156203191/6f4c8c31-0ba6-4ea6-8ed4-ec71d616f1ce)
 
